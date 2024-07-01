@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewBinding</string>
+    <string name="arkham_horror">Arkham Horror</string>
+    <string name="lotr">The Lord of the Rings</string>
+    <string name="guardian">Guardian</string>
+    <string name="seeker">Seeker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
